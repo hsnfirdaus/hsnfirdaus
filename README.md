@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hsnfirdaus.
+- 👀 I’m interested in programming (PHP, React Native, React JS), graphic design (Photoshop, Illustrator, CorelDraw, After Effect).
+- 🌱 I’m currently student in Vocational High School 5 Batam.
